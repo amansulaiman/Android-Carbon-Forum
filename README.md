@@ -5,17 +5,12 @@ Android Client for Carbon Forum with Material Design.
 
 
 
-## Related Projects
-
-* [API Documentation](https://github.com/lincanbin/Carbon-Forum-API-Documentation)
-* [PHP Server](https://github.com/lincanbin/Carbon-Forum)
-
 ## Requirements
 
 * Android Studio version 1.4 or higher.
 * Gradle Plugin 2.0 or higher.
 
-## Build your Carbon Forum android client
+## Build your Forum android client
 
 1. Rename the package name form ```com.lincanbin.carbonforum``` to ```com.yourname.carbonforum```.
 2. Edit configuration of domain, API key and API secret in ```config/APIAddress.java```.
